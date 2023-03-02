@@ -1,0 +1,3 @@
+GRANT PROCESS ON *.* TO user@localhost;
+or
+(mysqldump) --no-tablespaces;
